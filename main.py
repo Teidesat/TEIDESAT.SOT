@@ -18,6 +18,9 @@ TEIDESAT . SPACECRAFT OPERATION TOOL
 (IN DEVELOPMENT)
 '''
 
+import Satellite.Sat as sat
+import Satellite.Subsystem as sub
+
 #Satellite
 teidesat = sat.Sat()
 
