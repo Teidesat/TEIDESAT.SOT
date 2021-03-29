@@ -1,5 +1,4 @@
 '''
-
 TEIDESAT
 SPACECRAFT OPERATIONS
 
@@ -18,8 +17,6 @@ TEIDESAT . SPACECRAFT OPERATION TOOL
 @author:
 (IN DEVELOPMENT)
 '''
-import Satellite.Sat as sat
-import Satellite.Subsystem as sub
 
 #Satellite
 teidesat = sat.Sat()
@@ -37,9 +34,6 @@ def main():
     print(obc)
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main()
 
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
